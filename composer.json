@@ -1,0 +1,19 @@
+{
+    "name": "corrivate/tailwhen",
+    "description": "helper function for conditional (tailwind) classes",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "files": [
+            "src/tailwhen.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Lau Bannenberg",
+            "email": "lau.bannenberg@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
