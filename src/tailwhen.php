@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * @param  array<string, bool>  $conditionalClasses
+ * @return string
+ */
 function tailwhen(array $conditionalClasses): string
 {
     $result = [];
